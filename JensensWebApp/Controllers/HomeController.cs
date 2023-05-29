@@ -10,13 +10,13 @@ namespace JensensWebApp.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<HomeController> _logger;
         private IList<Article> _articles;
 
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _logger = logger;
+            //_logger = logger;
 
             _articles = new List<Article>
             {
