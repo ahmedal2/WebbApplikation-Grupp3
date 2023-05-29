@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\drump\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drump\\source\\repos\\WebbApplikation-Grupp3\\JensensWebApp\\JensensWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\ahmda\\WebbApplikation-Grupp3\\JensensWebApp\\JensensWebApp.csproj",
       "projectName": "JensensWebApp",
-      "projectPath": "C:\\Users\\drump\\source\\repos\\WebbApplikation-Grupp3\\JensensWebApp\\JensensWebApp.csproj",
-      "packagesPath": "C:\\Users\\drump\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drump\\source\\repos\\WebbApplikation-Grupp3\\JensensWebApp\\obj\\",
+      "projectPath": "C:\\Users\\ahmda\\WebbApplikation-Grupp3\\JensensWebApp\\JensensWebApp.csproj",
+      "packagesPath": "C:\\Users\\ahmda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahmda\\WebbApplikation-Grupp3\\JensensWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\drump\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
